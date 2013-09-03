@@ -1,0 +1,115 @@
+\begin{thebibliography}{10}
+
+\bibitem{boutilier1996context}
+C.~Boutilier, N.~Friedman, M.~Goldszmidt, and D.~Koller.
+\newblock Context-specific independence in bayesian networks.
+\newblock In {\em Proceedings of the Twelfth international conference on
+  Uncertainty in artificial intelligence}, pages 115--123. Morgan Kaufmann
+  Publishers Inc., 1996.
+
+\bibitem{gmytrasiewicz2005framework}
+P.~J. Gmytrasiewicz and P.~Doshi.
+\newblock A framework for sequential planning in multi-agent settings.
+\newblock {\em J. Artif. Intell. Res.(JAIR)}, 24:49--79, 2005.
+
+\bibitem{irissappane2012towards}
+A.~A. Irissappane, S.~Jiang, and J.~Zhang.
+\newblock Towards a comprehensive testbed to evaluate the robustness of
+  reputation systems against unfair rating attack.
+\newblock In {\em UMAP Workshops}, volume~12, 2012.
+
+\bibitem{kaelbling1998planning}
+L.~P. Kaelbling, M.~L. Littman, and A.~R. Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock {\em Artificial intelligence}, 101(1):99--134, 1998.
+
+\bibitem{kurniawati2008sarsop}
+H.~Kurniawati, D.~Hsu, and W.~S. Lee.
+\newblock Sarsop: Efficient point-based pomdp planning by approximating
+  optimally reachable belief spaces.
+\newblock In {\em Robotics: Science and Systems}, pages 65--72, 2008.
+
+\bibitem{mayo2010multi}
+K.~W. Mayo.
+\newblock Multi-objective constraint satisfaction for mobile robot area
+  defense.
+\newblock Technical report, DTIC Document, 2010.
+
+\bibitem{oliehoekreasoning}
+F.~A. Oliehoek, A.~A. Gokhale, and J.~Zhang.
+\newblock Reasoning about advisors for seller selection in e-marketplaces via
+  pomdps.
+\newblock In {\em Proceedings of the International Joint Conference on
+  Autonomous Agents and Multiagent Systems (AAMAS) Workshop on Trust in Agent
+  Societies}, pages 67--78, 2012.
+
+\bibitem{papadimitriou1987complexity}
+C.~H. Papadimitriou and J.~N. Tsitsiklis.
+\newblock The complexity of markov decision processes.
+\newblock {\em Mathematics of operations research}, 12(3):441--450, 1987.
+
+\bibitem{poupart2005exploiting}
+P.~Poupart.
+\newblock {\em Exploiting structure to efficiently solve large scale partially
+  observable Markov decision processes}.
+\newblock PhD thesis, University of Toronto, 2005.
+
+\bibitem{regan2005advisor}
+K.~Regan, R.~Cohen, and P.~Poupart.
+\newblock The advisor-pomdp: A principled approach to trust through reputation
+  in electronic markets.
+\newblock In {\em Proceedings of the Third Annual Conference on Privacy,
+  Security and Trust (PST)}, pages 121--130. Citeseer, 2001.
+
+\bibitem{regan2006bayesian}
+K.~Regan, P.~Poupart, and R.~Cohen.
+\newblock Bayesian reputation modeling in e-marketplaces sensitive to
+  subjectivity, deception and change.
+\newblock In {\em Proceedings of the National Conference on Artificial
+  Intelligence ({AAAI})}, 2006.
+
+\bibitem{seymour2009trust}
+R.~Seymour and G.~L. Peterson.
+\newblock A trust-based multiagent system.
+\newblock In {\em Proceedings of IEEE International Conference on Computational
+  Science and Engineering (CSE)}, volume~3, pages 109--116. IEEE, 2009.
+
+\bibitem{shani2013task}
+G.~Shani.
+\newblock Task-based decomposition of factored pomdps.
+\newblock 2013.
+
+\bibitem{silver2010monte}
+D.~Silver and J.~Veness.
+\newblock Monte-carlo planning in large pomdps.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  2164--2172, 2010.
+
+\bibitem{teach06}
+W.~Teacy, J.~Patel, N.~Jennings, and M.~Luck.
+\newblock {TRAVOS: Trust and reputation in the context of inaccurate
+  information sources}.
+\newblock {\em Autonomous Agents and Multi-Agent Systems}, 12(2):183--198,
+  2006.
+
+\bibitem{whitby05}
+A.~Whitby, A.~J{\o}sang, and J.~Indulska.
+\newblock Filtering out unfair ratings in bayesian reputation systems.
+\newblock In {\em Proceedings of the International Joint Conference on
+  Autonomous Agenst Systems ({AAMAS}) Workshop on Trust in Agent Societies
+  ({TRUST})}, 2004.
+
+\bibitem{zhang09thesis}
+J.~Zhang.
+\newblock {\em Promoting Honesty in E-Marketplaces: Combining Trust Modeling
+  and Incentive Mechanism Design}.
+\newblock PhD thesis, University of Waterloo, 2009.
+
+\bibitem{zhang08}
+J.~Zhang and R.~Cohen.
+\newblock Evaluating the trustworthiness of advice about seller agents in
+  e-marketplaces: A personalized approach.
+\newblock {\em Electronic Commerce Research and Applications}, 7(3):330--340,
+  2008.
+
+\end{thebibliography}
